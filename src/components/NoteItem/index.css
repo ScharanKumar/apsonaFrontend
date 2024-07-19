@@ -1,0 +1,97 @@
+.noteItemCon1{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    /* justify-content: space-between;
+    flex-wrap: wrap; */
+}
+.noteItemCon2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    width: 40%;
+   
+}
+
+.noteItemCon3{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    width: 60%;
+   
+}
+.x{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    border-width: 0px;
+    background-color: rgb(224, 196, 196);
+    margin-right: 5px;
+}
+.y{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    border-width: 0px;
+    background-color: rgb(225, 225, 166);
+    margin-right: 5px;
+}
+.z{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    border-width: 0px;
+    background-color: rgb(227, 214, 216);
+    margin-right: 5px;
+}
+.l{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    border-width: 0px;
+    background-color: white;
+    margin-right: 5px;
+}
+.noteItemCon5{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.noteItemBut{
+    width: 125px;
+    height: 35px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.headNoteItem{
+    margin: 0px;
+    padding: 0px;
+}
+.paraNoteItem{
+    font-size: 18px;
+}
+.noteItemBut1{
+    width: 200px;
+    height: 35px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
+.successCon11{
+    /* background-color: rgb(145, 167, 160); */
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    /* width: 40vw; */
+    flex-wrap: wrap;
+    
+}

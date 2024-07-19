@@ -1,0 +1,17 @@
+.conLabelItem1{
+    background-color: rgb(174, 215, 215);
+    width: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    margin-left: 10px;
+ }
+ .labelItemBut{
+    width: 75px;
+    height: 35px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 600;
+}
